@@ -6,3 +6,5 @@ winget install -e --id OBSProject.OBSStudio
 winget install -e --id Opera.Opera;
 winget install -e --id Microsoft.Teams;
 winget install -e --id Microsoft.WindowsTerminal;
+winget install -e --id Guru3D.Afterburner;
+winget install -e --id Nvidia.GeForceExperience 
